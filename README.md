@@ -15,4 +15,4 @@
 
 
 
-![Annu's github stats](https://github-readme-stats.vercel.app/api?username=vigneshappanraj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Annu's github stats](https://github-readme-stats.vercel.app/api?username=vigneshappanraj&show_icons=true&theme=synthwave)
